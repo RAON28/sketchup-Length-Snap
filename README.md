@@ -1,4 +1,5 @@
-# sketchup
+# sketchup Length Snap
+
 Ruby to easily change SketchUp length units
 
 (Personal Ruby)
